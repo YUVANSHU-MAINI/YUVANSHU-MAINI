@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvanshu Maini</h1>
-<h3 align="center">A final year student at Maharaja Agrasen Institute of technology.</h3>
+<h3 align="center">Graduate from  Maharaja Agrasen Institute of technology.</h3>
 
 - 🔭 I’m currently working on **Tinpet**
 
